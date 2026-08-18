@@ -1,0 +1,27 @@
+# bkp files
+*\.*~
+*.bak
+*.swp
+.env
+\.*\.tmp
+
+# configs
+\.authinfo
+
+# directory
+themes/
+elpa/
+elisp/behavior*
+cache/
+eln-cache/
+tmp/
+
+# files
+*\.pyc
+ielm-history.eld
+prescient-save.el
+saveplace
+tramp
+elisp/ia.el
+elisp/codex.el
+elisp/mydb.el

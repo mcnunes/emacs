@@ -16,4 +16,5 @@ A lightweight, reproducible Emacs configuration designed to sync custom settings
 Clone into your user configuration directory:
 
 ```bash
-git clone [https://codeberg.org/mcnunes/emacs.git](https://codeberg.org/mcnunes/emacs.git) ~/.emacs.d/
+git clone https://codeberg.org/mcnunes/emacs.git ~/.emacs.d/
+```
